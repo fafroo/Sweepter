@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Sweepter = "07c41cf2-a031-4515-95af-6fbbf6def4eb"

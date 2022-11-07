@@ -1,0 +1,13 @@
+name = "Sweepter"
+uuid = "07c41cf2-a031-4515-95af-6fbbf6def4eb"
+authors = ["Petr Vágner"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
